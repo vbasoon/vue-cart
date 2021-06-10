@@ -16,7 +16,8 @@
 }
 
 #nav {
-  padding: 30px;
+  padding: 10px;
+  width: 100%;
 
   a {
     font-weight: bold;
@@ -26,5 +27,11 @@
       color: #42b983;
     }
   }
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
 }
 </style>
